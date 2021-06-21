@@ -1,5 +1,5 @@
 import './style.css'
-import { fancyDate } from '/fancy_date.js'
+import { fancyDate } from 'fancy-date'
 
 document.querySelector('#app').innerHTML = `
   <h1>Hello Vite!</h1>

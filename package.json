@@ -10,6 +10,6 @@
     "vite": "^2.3.7"
   },
   "dependencies": {
-    "date-format": "^3.0.0"
+    "fancy-date": "file:./fancy-date"
   }
 }
