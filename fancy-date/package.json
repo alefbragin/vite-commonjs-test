@@ -1,0 +1,8 @@
+{
+  "name": "fancy-date",
+  "version": "0.0.0",
+  "main": "fancy_date.js",
+  "dependencies": {
+    "date-format": "^3.0.0"
+  }
+}
