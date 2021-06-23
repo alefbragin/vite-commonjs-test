@@ -5,8 +5,6 @@ export default defineConfig({
     include: ["fancy-date"],
   },
   build: {
-    commonjsOptions: {
-      include: [/fancy-date/, /node_modules/],
-    },
+    commonjsOptions: {},
   },
 });
