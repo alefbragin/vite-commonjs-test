@@ -1,6 +1,7 @@
 # Test-project to investigate Vite CommonJS support
 
-`npm run dev` and `npm run build` works properly.
+`npm run build` works properly,
+but `npm run dev` produces error: `SyntaxError: import not found: fancyDate`.
 
 
 ## Notes
