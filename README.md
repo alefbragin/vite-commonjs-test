@@ -1,7 +1,6 @@
 # Test-project to investigate Vite CommonJS support
 
-`npm run dev` works properly,
-while `npm run build` produce error and it is a Vite bug possibly.
+`npm run dev` and `npm run build` works properly.
 
 
 ## Notes
