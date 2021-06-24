@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 
 export default defineConfig({
   optimizeDeps: {
-    include: ["fancy-date"],
+    include: ["./fancy_date.js"],
   },
   build: {
     commonjsOptions: {},
